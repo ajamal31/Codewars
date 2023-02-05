@@ -1,3 +1,3 @@
 # Codewars
 
-My solutions ask I rank up on Codewars.
+My solutions as I rank up on Codewars.
